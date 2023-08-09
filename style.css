@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(120, 170, 228);
+    font-family: 'Press Start 2P', cursive;
+    font-size: small;
+    color: rgb(255, 255, 255);
+}
+    
+
+h1{
+    text-align: center;
+    background-color: rgb(95, 76, 76);
+}
+
+
+
+img.totoro{
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+img.balao{
+    margin-right: 20%;
+    margin-bottom: 250px;
+
+}
+
+img.totoro2{
+    margin-left: 400px;
+    margin-bottom: 400px;
+}
+
